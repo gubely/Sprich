@@ -1,5 +1,6 @@
 # drii kenigä
 
+´
 Besucherplan Drei Könige
 Dienstag, 1. Januar
 Sand, Ober-Wysserlen, 
@@ -51,6 +52,7 @@ St. Niklausen.
 Freiwillige Spenden gehen an die Alzheimervereinigung OW/NW.
 Sollten die Könige Sie auf dem Rundgang vergessen haben,
 so liegen im Schriftenstand in der Pfarrkirche gesegnete Kreiden mit dem Segensgebet zum Mitnehmen bereit.
+´
 
 (Auszug aus dem Pfarreiblatt Nr. 23 – 12/2018, https://www.kirche-obwalden.ch/wp-content/uploads/Web_PfOW_23-18.pdf)
 
